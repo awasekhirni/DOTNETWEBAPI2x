@@ -1,0 +1,22 @@
+
+Extensions and Updates 
+1.EF CORE POWER TOOLS 
+2.Productivity Power tools 
+3. web essentials
+4.Power commands for visual studio
+5. Web Compiler 
+6.ASP.NET MVC Boilerplate (autofac,glimpse,bootstrap 3, font awesome, jquery,modernizr, nwebsec,less,elmah)
+7.CSSCOP 
+8.SideWaffle Template Pack 
+9.JSLint.NET
+10.Ref12
+11.Code Cracker for C# 
+12.Developer Assistant 
+13. Refactoring Essentials
+14.Razor Language service 
+15. Project File Tools 
+16.EditorConfig Language Service 
+17.Resharper
+18.Essential Studio for ASP.NET MVC
+19.ASP.NET CORE BOILERPLATE
+20.ASP.NET MVC Snippet Pack
